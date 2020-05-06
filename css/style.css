@@ -5,11 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*
-* ======================================================= */
+
 body {
   font-family: "Lato", Arial, sans-serif;
   font-weight: 400;
@@ -442,7 +438,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .gtco-cover {
-  height: 900px;
+  height:800px;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
